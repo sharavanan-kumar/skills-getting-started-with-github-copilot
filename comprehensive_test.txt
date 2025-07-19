@@ -1,0 +1,15 @@
+12
+append 1
+append 2
+append 3
+print
+insert 1 5
+print
+remove 2
+print
+sort
+print
+reverse
+print
+pop
+print
