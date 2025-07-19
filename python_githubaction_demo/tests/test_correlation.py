@@ -1,6 +1,6 @@
 import unittest
 import numpy as np
-from python_gha_demo.correlation import calculate_correlation
+from python_githubaction_demo.correlation import calculate_correlation
 
 class TestCorrelation(unittest.TestCase):
 
